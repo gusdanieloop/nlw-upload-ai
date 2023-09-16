@@ -8,9 +8,3 @@
 - [ffmpeg](https://ffmpegwasm.netlify.app/)
 - [axios](https://axios-http.com/)
 - [AI](https://sdk.vercel.ai/docs)
-
-
-## Popular o db com os prompts
-```
-$ pnpm prisma db seed
-```
